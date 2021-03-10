@@ -1,0 +1,15 @@
+column,description
+age,Age of the patient
+gender,"Gender of the patient - (0,1) - (Male, Female)"
+chest_pain,"It refers to the chest pain experienced by the patient -(0,1,2,3)"
+rest_bps,Blood pressure of the patient while resting(in mm/Hg)
+cholesterol,Patient's cholesterol level (in mg/dl)
+fasting_blood_sugar,The blood sugar of the patient while fasting
+rest_ecg,"Potassium level (0,1,2)"
+thalach,The patient’s maximum heart rate
+exer_angina,"It refers to exercise-induced angina - (1=Yes, 0=No)"
+old_peak,It is the ST depression induced by exercise relative to rest(ST relates to the position on ECG plots)
+slope,"It refers to the slope of the peak of the exercise ST-Segment- (0,1,2)"
+ca,"Number of major vessels - (0,1,2,3,4)"
+thalassemia,"It refers to thalassemia which is a blood disorder - (0,1,2,3)"
+target,"The patient has heart disease or not - (1=Yes, 0=No)"
